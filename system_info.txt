@@ -1,0 +1,27 @@
+===============================================
+   🖥️  SYSTEM INFORMATION MENU
+===============================================
+1. Display Date and Time
+2. Show Logged-in Users
+3. Show Disk Usage
+4. Show System Uptime
+5. Clear Output File
+6. Display File Contents
+7. Exit
+===============================================
+Enter your choice [1-7]: 6
+===============================================
+   Welcome, codio!
+   Date: Sun Nov 09 10:49:51
+===============================================
+Users Currently Logged In: 1
+Details:
+codio    pts/2        2025-11-09 10:43
+Current Date & Time: Sun Nov  9 10:50:06 UTC 2025
+System Uptime: up 7 minutes
+Users Currently Logged In: 1
+Details:
+codio    pts/2        2025-11-09 10:43
+System Uptime: up 7 minutes
+===============================================
+  
